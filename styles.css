@@ -1,18 +1,20 @@
 BODY{
-    background-color:	#b8e8ea;
-    color:white;
+    background-color:	#94CADA;
+    color:#6284E4 ;
 }
 h1{
-  font-family: 'Gloria Hallelujah', cursive;
+  font-family: 'Zeyada', cursive;
+
   text-align: center;
-  color:#f09625;
+  color:#6284E4;
 }
 h2{
-    font-family: 'Gloria Hallelujah', cursive;}
+  font-family: 'Zeyada', cursive;
+    /*font-family: 'Gloria Hallelujah', cursive;}*/
 }
 }
 BODY{
-    background-color:	#b8e8ea;
+    background-color:	#8ED2C9;
 }
 p{
   font-family: 'Armata', sans-serif;
